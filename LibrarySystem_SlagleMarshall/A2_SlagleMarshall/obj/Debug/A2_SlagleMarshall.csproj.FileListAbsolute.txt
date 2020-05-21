@@ -1,0 +1,6 @@
+/Users/marshall/C# SEEMA/A2_SlagleMarshall/A2_SlagleMarshall/bin/Debug/A2_SlagleMarshall.exe
+/Users/marshall/C# SEEMA/A2_SlagleMarshall/A2_SlagleMarshall/bin/Debug/A2_SlagleMarshall.pdb
+/Users/marshall/C# SEEMA/A2_SlagleMarshall/A2_SlagleMarshall/obj/Debug/A2_SlagleMarshall.csprojAssemblyReference.cache
+/Users/marshall/C# SEEMA/A2_SlagleMarshall/A2_SlagleMarshall/obj/Debug/A2_SlagleMarshall.csproj.CoreCompileInputs.cache
+/Users/marshall/C# SEEMA/A2_SlagleMarshall/A2_SlagleMarshall/obj/Debug/A2_SlagleMarshall.exe
+/Users/marshall/C# SEEMA/A2_SlagleMarshall/A2_SlagleMarshall/obj/Debug/A2_SlagleMarshall.pdb
